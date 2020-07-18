@@ -1,0 +1,8 @@
+/home/ist/practiceProjects/sourChat/src/main/java/com/video/sourChat/repository/UserRepository.java
+/home/ist/practiceProjects/sourChat/src/main/java/com/video/sourChat/service/impl/UserServiceImpl.java
+/home/ist/practiceProjects/sourChat/src/main/java/com/video/sourChat/rest/UserRestImpl.java
+/home/ist/practiceProjects/sourChat/src/main/java/com/video/sourChat/service/IUserService.java
+/home/ist/practiceProjects/sourChat/src/main/java/com/video/sourChat/model/User.java
+/home/ist/practiceProjects/sourChat/src/main/java/com/video/sourChat/ServletInitializer.java
+/home/ist/practiceProjects/sourChat/src/main/java/com/video/sourChat/dao/impl/UserDaoImpl.java
+/home/ist/practiceProjects/sourChat/src/main/java/com/video/sourChat/SourChatApplication.java

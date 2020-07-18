@@ -1,0 +1,8 @@
+com/video/sourChat/service/impl/UserServiceImpl.class
+com/video/sourChat/ServletInitializer.class
+com/video/sourChat/rest/UserRestImpl.class
+com/video/sourChat/model/User.class
+com/video/sourChat/dao/impl/UserDaoImpl.class
+com/video/sourChat/SourChatApplication.class
+com/video/sourChat/service/IUserService.class
+com/video/sourChat/repository/UserRepository.class
